@@ -1,0 +1,20 @@
+generated: '2026-07-18'
+method: searched
+probe: false
+source: https://www.condorsoftware.com/company/trust
+url: https://www.condorsoftware.com/company/trust
+certifications:
+- SOC 1 Type 2
+- SOC 2 Type 2
+notes: >-
+  Condor's Trust & Security page states the platform maintains SOC 1 Type 2 and
+  SOC 2 Type 2 attestations and follows security-by-design practices, privacy
+  controls, and rigorous industry standards for data protection. No named ISO,
+  HIPAA, PCI, or FedRAMP program is published. No dedicated vulnerability
+  disclosure channel or bug bounty is advertised; a general contact form handles
+  privacy and security questions.
+evidence:
+- source: https://www.condorsoftware.com/company/trust
+  keywords: [soc 1 type 2, soc 2 type 2, trust, security, compliance]
+- source: https://www.condorsoftware.com/llms.txt
+  keywords: [soc 1, soc 2, compliant]

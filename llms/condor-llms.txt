@@ -1,0 +1,96 @@
+# Condor Software
+
+> Condor is the Financial Intelligence Layer purpose-built for Life Sciences R&D. Its AI-powered technology automatically unifies clinical, operational, and financial data from disparate systems and vendors — replacing manual spreadsheet reconciliation with automated accruals, real-time forecasting, and board-ready insights, so R&D finance teams can operate with confidence and bring therapies to patients faster and more cost-effectively.
+
+Condor serves emerging and enterprise biopharma, MedTech companies, and CROs. The platform connects CTMS, EDC, ERP, and vendor data into a single source of truth, then layers AI-powered automation for accounting, FP&A, and analytics on top. It is built on a proprietary clinical trial finance ontology co-developed with EY, KPMG, and PwC, and is SOC 1 and SOC 2 compliant. Condor manages over $19 billion in R&D spend for organizations including Acadia Pharmaceuticals, BridgeBio Pharma, Madrigal Pharmaceuticals, and Alumis Therapeutics. Founded by Jen Kyle, Condor is headquartered in San Diego, California, and backed by Insight Partners, Felicis, and 645 Ventures.
+
+Key terms: financial intelligence layer, clinical trial finance, clinical trial accruals, R&D finance, clinical trial forecasting, CRO reconciliation, change orders, biopharma accounting, month-end close automation.
+
+Key proof points: 90%+ forecast accuracy, 70% faster month-end close, 30% average budget savings, $19B+ in R&D spend managed, 4x trial volume in 120 days without adding headcount.
+
+## Platform
+
+- [Platform Overview](https://www.condorsoftware.com/platform): The unified R&D finance platform for biopharma — automated workflows, real-time data integration, and AI-powered analytics
+- [Condor Connect](https://www.condorsoftware.com/platform/connect): Data integration layer that unifies CTMS, EDC, ERP, and vendor data with no rip-and-replace
+- [Condor Copilot](https://www.condorsoftware.com/platform/copilot): Automates accruals, reconciliation, and close with audit-grade controls, cutting month-end close by 70%
+- [Condor Compass](https://www.condorsoftware.com/platform/compass): Driver-based clinical trial forecasting that updates as programs evolve, with board-ready scenarios
+- [Accounting](https://www.condorsoftware.com/platform/accounting): Clinical trial accounting with automated accruals, AI-guided close, and CRO variance detection
+- [FP&A](https://www.condorsoftware.com/platform/fpa): Driver-based forecasting, AI scenario modeling, and budgeting for clinical trials in one system
+- [Analytics](https://www.condorsoftware.com/platform/analytics): Real-time R&D financial performance tracking with industry benchmarks
+- [Professional Services](https://www.condorsoftware.com/platform/professional-services): Implementation and optimization support from Condor's Customer Success team
+- [AI in Clinical Finance](https://www.condorsoftware.com/ai-clinical-finance): Free monthly workshop series on practical AI workflows for clinical finance — CRO change orders, board deck drafting, vendor spend monitoring
+- [Clinical Finance Agent](https://www.condorsoftware.com/clinical-finance-agent): AI agent for clinical finance (waiting list)
+
+## Solutions
+
+- [Accounting Teams](https://www.condorsoftware.com/solutions/accounting): Scale your clinical portfolio with automated accruals and a 70% faster close
+- [FP&A Teams](https://www.condorsoftware.com/solutions/fpa): Real-time insights, strategic planning, and executive dashboards for clinical FP&A
+- [Clinical Operations](https://www.condorsoftware.com/solutions/clinical-operations): Real-time financial visibility into every trial for clinical ops teams
+- [Internal Audit](https://www.condorsoftware.com/solutions/internal-audit): Automated compliance monitoring, audit-ready documentation, and risk tools for biopharma controllers
+- [Emerging Biopharma](https://www.condorsoftware.com/solutions/emerging-biopharma): Scale from one trial to many without adding headcount
+- [Enterprise Biopharma](https://www.condorsoftware.com/solutions/enterprise-biopharma): Insights and control for managing complex portfolios and reporting with confidence
+- [MedTech](https://www.condorsoftware.com/solutions/medtech): Financial clarity for device, diagnostic, and digital health trials
+- [CROs & Partners](https://www.condorsoftware.com/solutions/cros-partners): Transparent trial finances, change orders, and reconciliation for CRO-sponsor collaboration
+
+## Company
+
+- [About](https://www.condorsoftware.com/company/about): Why Condor was built — by R&D operators, to help life sciences teams bring therapies to patients faster
+- [Leadership](https://www.condorsoftware.com/company/leadership): Leadership team led by founder and CEO Jen Kyle
+- [Trust & Security](https://www.condorsoftware.com/company/trust): SOC 1 and SOC 2 Type 2 compliance, privacy controls, and security-by-design practices
+- [Partner Program](https://www.condorsoftware.com/company/partners): Deliver R&D financial solutions to life sciences clients as a Condor partner
+- [Careers](https://jobs.ashbyhq.com/condor-software): Open roles at Condor Software
+- [Newsroom](https://www.condorsoftware.com/newsroom): Latest news, product updates, and announcements
+- [Pricing](https://www.condorsoftware.com/pricing): Flexible plans for every stage — emerging biopharma, enterprise biopharma, CROs, and MedTech
+- [Contact](https://www.condorsoftware.com/contact): Book a demo or reach the Condor team
+- [Referral Program](https://www.condorsoftware.com/referral-program): Client referral program
+- [Events](https://www.condorsoftware.com/events): Upcoming Condor conferences and webinars
+
+## White Papers
+
+- [2026 Biopharma R&D Finance Benchmark Report](https://www.condorsoftware.com/white-papers/2026-biopharma-r-d-finance-benchmark-report): What separates top enterprise pharma R&D finance teams from the rest
+- [Condor & KPMG's Guide to Biotech Accounting Leading Practices](https://www.condorsoftware.com/white-papers/condor-kpmgs-guide-to-biotech-accounting-leading-practices): Best practices for accounting for outsourced R&D activities
+- [Condor's Guide to Change Orders](https://www.condorsoftware.com/white-papers/condors-guide-to-change-orders): A step-by-step process for negotiating change orders with your CRO
+- [R&D Accounting Best Practices for Clinical Trials](https://www.condorsoftware.com/white-papers/r-d-accounting-best-practices-for-clinical-trials): Purpose-built technology with rigorous SOX-compliant controls
+- [Transforming Clinical Finance: How to Evaluate Purpose-Built Software](https://www.condorsoftware.com/white-papers/transforming-clinical-finance-how-to-evaluate-purpose-built-software-that-is-revolutionizing-biotech-and-pharma-finance): A practical roadmap for biopharma leaders to modernize clinical finance
+- [Best Clinical Trial Accruals Software: A Plain-English Guide](https://www.condorsoftware.com/buyer-guide-2025): A 2025 buyer's guide comparing top clinical trial accruals software for pharma finance teams
+
+## Case Studies
+
+- [How a Lean Biotech Finance Team Scaled Trial Volume Without Adding Headcount](https://www.condorsoftware.com/case-studies/how-a-lean-biotech-finance-team-scaled-trial-volume-without-adding-headcount-using-condor)
+- [Clinical-Stage Dermatology Case Study](https://www.condorsoftware.com/case-studies/clinical-stage-dermatology-case-study)
+- [Increasing Efficiency, Accuracy, and Collaboration with Condor](https://www.condorsoftware.com/case-studies/increasing-efficiency-accuracy-and-collaboration-with-condor): Ventyx Biosciences case study
+- [San Diego Enterprise Biopharma Case Study](https://www.condorsoftware.com/case-studies/san-diego-enterprise-biopharma-case-study)
+
+## Webinars
+
+- [Condor & BDO: Mastering Clinical Trial Accounting & Forecasting](https://www.condorsoftware.com/webinars/condor-bdo-mastering-clinical-trial-accounting-forecasting)
+- [Condor in Action: From Reactive to Intelligent Finance in Biopharma](https://www.condorsoftware.com/webinars/condor-in-action-from-reactive-to-intelligent-finance-in-biopharma)
+- [Condor & PwC: Transforming Clinical Finance](https://www.condorsoftware.com/webinars/condor-pwc-webinar-transforming-clinical-finance)
+- [Condor & Ventyx: Streamlining Clinical Trial Finance](https://www.condorsoftware.com/webinars/condor-ventyx-streamlining-clinical-trial-finance)
+- [From Fantasy to Forecast](https://www.condorsoftware.com/webinars/from-fantasy-to-forecast)
+- [Lunch & Learn: Smarter Forecasting for Clinical Trials](https://www.condorsoftware.com/webinars/lunch-learn-smarter-forecasting-for-clinical-trials)
+- [Mastering Change Orders: Avoid Costly Surprises from Your CRO](https://www.condorsoftware.com/webinars/mastering-change-orders-avoid-costly-surprises-from-your-cro)
+
+## Blog
+
+- [Condor Insights Blog](https://www.condorsoftware.com/blog): Expert takes on clinical trial accruals, forecasting, accounting, and R&D finance strategy
+- [What Is Clinical Trial Accruals Software and Why Does Your Biopharma Finance Team Need It?](https://www.condorsoftware.com/blog/what-is-clinical-trial-accruals-software-and-why-does-your-biopharma-finance-team-need-it)
+- [Definitive Guide: How to Automate Clinical Trial Accruals](https://www.condorsoftware.com/blog/definitive-guide-how-to-automate-clinical-trial-accruals)
+- [Clinical Trial Accruals Are Too Complex for Spreadsheets](https://www.condorsoftware.com/blog/clinical-trial-accruals-are-too-complex-for-spreadsheets-heres-what-finance-teams-are-doing-instead)
+- [Clinical Trial Reconciliation Best Practices](https://www.condorsoftware.com/blog/clinical-trial-reconciliation-best-practices)
+- [Automating and Simplifying Accrual Management for Clinical-Stage Biotech Companies](https://www.condorsoftware.com/blog/automating-and-simplifying-accrual-management-for-clinical-stage-biotech-companies)
+- [Stop Straight-Lining, Start Scaling: The Key to Faster, More Accurate Accruals](https://www.condorsoftware.com/blog/stop-straight-lining-start-scaling-the-key-to-faster-more-accurate-accruals)
+- [Managing Upfront Payments: From RFP to Reconciliation](https://www.condorsoftware.com/blog/managing-upfront-payments-from-rfp-to-reconciliation)
+- [Optimizing Clinical Trial Finance: Best Practices for Collaborating with Your CRO](https://www.condorsoftware.com/blog/optimizing-clinical-trial-finance-best-practices-for-collaborating-with-your-cro)
+- [Outsourced R&D, In-House Accountability: How to Stay Compliant](https://www.condorsoftware.com/blog/outsourced-r-d-in-house-accountability-how-to-stay-compliant)
+- [Generic AI Isn't Good Enough for Clinical Trial Finance. Here's Why.](https://www.condorsoftware.com/blog/ai-clinical-trial-finance)
+- [How Our Platform Uses AI to Produce Numbers You Can Trust](https://www.condorsoftware.com/blog/how-our-platform-uses-ai-to-produce-numbers-you-can-trust)
+- [What AI Is — and How It Actually Works](https://www.condorsoftware.com/blog/what-ai-is-and-how-it-actually-works)
+- [Introducing Our New Advanced Analytics and Dynamic Scenario Suite](https://www.condorsoftware.com/blog/advanced-analytics-and-dynamic-scenario-suite-announcement)
+- [What We Heard at ABFO 2026: AI Is the Priority — and Many Don't Know Where to Start](https://www.condorsoftware.com/blog/what-we-heard-at-abfo-2026-ai-is-the-priority-and-many-dont-know-where-to-start)
+
+## Optional
+
+- [Legal](https://www.condorsoftware.com/legal): Legal documents and agreements
+- [Privacy Policy](https://www.condorsoftware.com/privacy-policy)
+- [Agreements & Terms](https://www.condorsoftware.com/agreements-and-terms)

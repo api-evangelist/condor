@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.condorsoftware.com/company/trust
+standards:
+- id: soc1-type2
+  conforms: true
+  evidence: 'Trust & Security page publishes SOC 1 Type 2 attestation'
+- id: soc2-type2
+  conforms: true
+  evidence: 'Trust & Security page publishes SOC 2 Type 2 attestation'
+- id: iso-27001
+  conforms: false
+  evidence: 'not named on the Trust & Security page'
+- id: hipaa
+  conforms: false
+  evidence: 'not named on the Trust & Security page'
+- id: gdpr
+  conforms: false
+  evidence: 'privacy controls referenced but GDPR not explicitly claimed'
+notes: >-
+  Condor is a closed SaaS platform with no public API surface; conformance here
+  reflects the provider's published security/compliance posture rather than
+  cross-cutting API standards (no OpenAPI to derive oauth2/oidc/rfc9457 from).

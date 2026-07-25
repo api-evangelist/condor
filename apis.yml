@@ -1,8 +1,29 @@
 aid: condor
 name: Condor
-description: 'Condor is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Condor is the Financial Intelligence Layer purpose-built for Life Sciences R&D.
+  Its AI-powered platform automatically unifies clinical, operational, and
+  financial data from disparate systems and vendors (CTMS, EDC, ERP, and CRO
+  data), replacing manual spreadsheet reconciliation with automated clinical
+  trial accruals, real-time forecasting, and board-ready insights. Condor serves
+  emerging and enterprise biopharma, MedTech companies, and CROs through its
+  Connect, Copilot, and Compass products spanning accounting, FP&A, and
+  analytics, built on a clinical trial finance ontology co-developed with EY,
+  KPMG, and PwC. The company is SOC 1 Type 2 and SOC 2 Type 2 compliant, manages
+  over $19B in R&D spend, was founded by Jen Kyle, is headquartered in San Diego,
+  and is backed by Insight Partners, Felicis, and 645 Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68b2225425cc00f6ec21916d/6a42f525d87027b436ab808f_Home%20page.jpg
 url: https://raw.githubusercontent.com/api-evangelist/condor/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +33,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Healthcare
+- Life Sciences
+- Clinical Trials
+- Biopharma
+- R&D Finance
+- FP&A
+- Accounting
+- Artificial Intelligence
+- Financial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.condorsoftware.com/
+- type: Blog
+  url: https://www.condorsoftware.com/blog
+- type: Pricing
+  url: https://www.condorsoftware.com/pricing
+- type: Login
+  url: https://app.condorsoftware.com/
+- type: Support
+  url: https://www.condorsoftware.com/contact
+- type: TermsOfService
+  url: https://www.condorsoftware.com/agreements-and-terms
+- type: PrivacyPolicy
+  url: https://www.condorsoftware.com/privacy-policy
+- type: TrustCenter
+  url: https://www.condorsoftware.com/company/trust
+- type: Compliance
+  url: https://www.condorsoftware.com/company/trust
+- type: LLMsTxt
+  url: llms/condor-llms.txt
+- type: Conformance
+  url: conformance/condor-conformance.yml
+- type: DomainSecurity
+  url: security/condor-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
