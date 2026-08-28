@@ -12,6 +12,17 @@ description: >-
   KPMG, and PwC. The company is SOC 1 Type 2 and SOC 2 Type 2 compliant, manages
   over $19B in R&D spend, was founded by Jen Kyle, is headquartered in San Diego,
   and is backed by Insight Partners, Felicis, and 645 Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
