@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: www.condorsoftware.com
   final_host: condorsoftware.com
-  ownership: inherited
+  ownership: own
   owner: condor
   shares_host_with: null
-  inherited_from: condorsoftware.com
+  inherited_from: null
+  alias_of: condorsoftware.com
   verdict: scored
-  score: null
+  score: 16
+  band: 5
+  band_label: prominent
   host_score: 16
-  density: null
+  density: 18.18
   words: 880
   tiers:
     agentic: 2
